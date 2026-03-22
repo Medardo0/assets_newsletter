@@ -1,0 +1,2 @@
+# assets_newsletter
+images
